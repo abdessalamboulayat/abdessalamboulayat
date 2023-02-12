@@ -15,9 +15,7 @@ Skills: REACT / JS / HTML / CSS / JAVA / PHP / SPRING BOOT / GIT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessalamboulayat)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdessalamboulayat&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdessalamboulayat)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdessalamboulayat&show_icons=true&count_private=true&theme=merko)  
 
 ![GitHub metrics](https://metrics.lecoq.io/abdessalamboulayat)  
 
