@@ -12,7 +12,6 @@ Skills: REACT / JS / HTML / CSS / JAVA / PHP / SPRING BOOT / GIT
 - 🌱 I’m currently learning developement of application mobile using JAVA 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdessalamboulayat)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessalamboulayat)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,5 +22,3 @@ Skills: REACT / JS / HTML / CSS / JAVA / PHP / SPRING BOOT / GIT
 ![GitHub metrics](https://metrics.lecoq.io/abdessalamboulayat)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdessalamboulayat)  
-
-![Profile views](https://gpvc.arturio.dev/abdessalamboulayat)  
