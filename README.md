@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Abdessalam
 #### <Abdessalam BOULAYT />
-About me:
-I'm a software engineering student at University CADI AAYAD  
-I'm a full stack developer  
-you can contact here :  
+## About me:  
+<ul>
+  <li>I'm a software engineering student at University CADI AAYAD</li>
+  <li>I'm a full stack developer</li>
+  <li>you can contact here :</li>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdessalamboulayat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessalam-boulayat-4b9755190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abd07_20/)  
-
+</ul>
 
 Skills: REACT / JS / HTML / CSS / JAVA / PHP / SPRING BOOT / GIT
 
