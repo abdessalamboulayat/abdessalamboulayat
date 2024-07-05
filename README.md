@@ -3,7 +3,7 @@
 <h3> About me: </h3>
 <th>
 <ul>
-  <li>I'm a software engineering student at University CADI AAYAD</li>
+  <li>I'm a software engineer</li>
   <li>I'm a full stack developer</li>
   <li>you can contact here :</li>
   <href a="https://github.com/abdessalamboulayat"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'></a> 
