@@ -6,26 +6,24 @@ I’m a passionate full-stack developer with a strong foundation in Java, Spring
 
 ## 🌱 Currently Learning:  
 - ☁️ Cloud Technologies (AWS)  
-- 📱 Mobile app development with Java  
 - ⚙️ Advanced Spring Boot techniques  
-- 🧪 Software testing methodologies (unit, integration, and end-to-end tests)  
 - 🧩 Algorithms and Competitive Programming
 
 ## Skills  
 **Backend:**  
-- ☕ Java, Spring Boot, Node.js, NestJS  
+- ☕ Java, C#, C, Python, Spring Framework, Node.js, NestJS   
 
 **Frontend:**  
-- ⚛️ React, JavaScript, TypeScript, HTML5, CSS3, Redux, Tailwind CSS  
+- ⚛️ JavaScript, TypeScript, React, Angular, VueJs, Redux HTML5, CSS3, Tailwind CSS  
 
 **Databases:**  
-- 🗃️ PostgreSQL, MongoDB, MySQL  
+- 🗃️ PostgreSQL, MySQL, Oracle, MongoDB  
 
-**DevOps & Tools:**  
-- 🐳 Docker, Jenkins, Kubernetes, Git, AWS  
+**DevOps & CI/CD:**  
+- 🐳 Docker, Jenkins, Kubernetes, Git, AWS, GitLab CI/CD  
 
-**Testing & CI/CD:**  
-- ✅ JUnit, Cucumber, GitLab CI/CD, Test-Driven Development (TDD), Behavior-Driven Developement (BDD)  
+**Testing:**  
+- ✅ Test-Driven Development (TDD), Behavior-Driven Developement (BDD), JUnit, Cucumber  
 
 ## Contact Me  
 - [LinkedIn](https://www.linkedin.com/in/abdessalam-boulayat-4b9755190/)  
